@@ -3,19 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishukumar07" alt="kishukumar07" /></a> </p>
 
-- 🔭 I’m currently working on [mega Web_project](https://github.com/kishukumar07/Mini_Projects/tree/main/login%20page)
 
-- 🌱 I’m currently learning **Advance Javascript & NodeJs**
+- 🌱 I’m currently learning **Advance Javascript & NodeJs along with focusing on DataStructure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kishukumar07](https://github.com/kishukumar07)
-
-- 📝 I regularly write articles on [currently unable](currently unable)
-
-- 💬 Ask me about **Html, Css, Js , other_coding_stuffs**
+- 💬 Ask me about **Html, Css, Js , DSA ,other_coding_stuffs**
 
 - 📫 How to reach me **kishukumar.dev@gmail.com**
-
-- 📄 Know about my experiences [currently unable](currently unable)
 
 - ⚡ Fun fact **I think i am a big stuff**
 
