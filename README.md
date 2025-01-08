@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advance Javascript & NodeJs along with focusing on DataStructure & Algorithm**
 
-- 💬 Ask me about **Html, Css, Js , DSA ,other_coding_stuffs**
+- 💬 Ask me about **Html, Css, Js , AdvanceJsconcepts ,nodeJs, DSA ,other_coding_stuffs**
 
 - 📫 How to reach me **kishukumar.dev@gmail.com**
 
