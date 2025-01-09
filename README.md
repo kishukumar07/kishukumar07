@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kishukumar.dev@gmail.com**
 
-- ⚡ Fun fact **I think i am a big stuff**
+- ⚡ Inspiring fact **Enough is not too little ✨♥️#universe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
