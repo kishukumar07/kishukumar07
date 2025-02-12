@@ -3,7 +3,7 @@
 <h3 align="center">🚀 A Passionate JavaScript Developer & Tech Enthusiast from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=JavaScript%20Developer;MERN%20Stack%20Learner;Tech%20Content%20Creator;Always%20Exploring%20New%20Technologies&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=JavaScript%20Developer;MERN%20Stack%20Developer;Tech%20Explorer;Always%20Exploring%20New%20Technologies&center=true&width=500&height=50" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishukumar07" alt="kishukumar07" /></a> </p>
