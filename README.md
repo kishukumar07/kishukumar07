@@ -5,14 +5,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=JavaScript%20Developer;MERN%20Stack%20Learner;Tech%20Content%20Creator;Always%20Exploring%20New%20Technologies&center=true&width=500&height=50" />
 </p>
-<h1 align="center">Hi 👋, I'm Niket (Kishu Kumar)!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishukumar07&label=Profile%20views&color=0e75b6&style=flat" alt="kishukumar07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishukumar07" alt="kishukumar07" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kishukumar07" target="blank"><img src="https://img.shields.io/twitter/follow/kishukumar07?logo=twitter&style=for-the-badge" alt="kishukumar07" /></a> </p>
 
 - 🔭 I’m currently working on [MERN ADVANCE CONCEPTS](https://github.com/kishukumar07/MERN_Development)
 
@@ -44,8 +38,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/UpdatingSoon..."> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="UpdatingSoon..." /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishukumar07&show_icons=true&locale=en&layout=compact" alt="kishukumar07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishukumar07&show_icons=true&locale=en" alt="kishukumar07" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishukumar07&" alt="kishukumar07" /></p>
+
