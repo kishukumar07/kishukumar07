@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Mern_Stack && DataStructure_&_algorithm**
 
-- 👨‍💻 All of my projects are available at [portfollio link .. Updating Soon...](portfollio link .. Updating Soon...)
+- 👨‍💻 All of my projects are available at [portfollio link .. Updating Soon...]
 
-- 📝 I regularly write articles on [Updating Soon...](Updating Soon...)
+- 📝 I regularly write articles on [Updating Soon...]
 
-- 💬 Ask me about **JavaScript ,AdvanceJSConcepts,Java,Dsa,Html,Css,DomManipulation,AsyncJS,ReactJs,NodeJs,ExpressJS,Mongoose,MongoDB,MongoAtlus,Deployment,ApiDocs_Swagger,MERN-FUllSTACK & OTHER PROGRAMMING STUFFS like(GEN_AI)....**
+- 💬 Ask me about **JavaScript,AdvanceJSConcepts,Java,Dsa,Html,Css,DomManipulation,AsyncJS,ReactJs,NodeJs,ExpressJS,Mongoose,MongoDB,MongoAtlus,Deployment,ApiDocs_Swagger,MERN-FUllSTACK & OTHER PROGRAMMING STUFFS like(GEN_AI)....**
 
 - 📫 How to reach me **kishukumar.dev@gmail.com**
 
