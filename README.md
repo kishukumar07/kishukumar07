@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Niket (Kishu Kumar)!
+### 👋 Hi there , I'm Niket (Kishu Kumar)!
 
 <h3 align="center">🚀 A Passionate JavaScript Developer & Tech Enthusiast from India 🚀</h3>
 
@@ -8,21 +8,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishukumar07" alt="kishukumar07" /></a> </p>
 
-- 🔭 I’m currently working on [MERN ADVANCE CONCEPTS](https://github.com/kishukumar07/MERN_Development)
+- 🔭 I’m currently working on (https://github.com/kishukumar07/Blog_Client_Backend)
+- 🌱 I’m currently learning ** Mern_Stack && DataStructure_&_Algorithm **
+- 👨‍💻 All of my projects are available at [(https://github.com/kishukumar07?tab=repositories)]
+- 💬 Ask me about 
+**JavaScript,AdvanceJSConcepts,Java,Dsa,Html,Css,DomManipulation,AsyncJS,ReactJs,NodeJs,ExpressJS,Mongoose,MongoDB,MongoAtlus,Deployment,ApiDocs_Swagger,MERN-FUllSTACK & OTHER PROGRAMMING STUFFS like(GEN_AI)....**
 
-- 🌱 I’m currently learning **Mern_Stack && DataStructure_&_algorithm**
+- 📫 How to reach me ** kishukumar.dev@gmail.com **
+- 📄 Know about my experiences [ResumeLink-Updating Soon...]
 
-- 👨‍💻 All of my projects are available at [portfollio link .. Updating Soon...]
-
-- 📝 I regularly write articles on [Updating Soon...]
-
-- 💬 Ask me about **JavaScript,AdvanceJSConcepts,Java,Dsa,Html,Css,DomManipulation,AsyncJS,ReactJs,NodeJs,ExpressJS,Mongoose,MongoDB,MongoAtlus,Deployment,ApiDocs_Swagger,MERN-FUllSTACK & OTHER PROGRAMMING STUFFS like(GEN_AI)....**
-
-- 📫 How to reach me **kishukumar.dev@gmail.com**
-
-- 📄 Know about my experiences [ResumeLink...Updating Soon...](ResumeLink...Updating Soon...)
-
-- ⚡ Fun fact **I think...Enough is not too little ✨♥️#universe**
+- ⚡ Fun fact ** I think...Enough is not too little ✨♥️#universe **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
