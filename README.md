@@ -8,10 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishukumar07" alt="kishukumar07" /></a> </p>
 
-- 🌱 I’m currently learning ** Mern_Stack && DataStructure_&_Algorithm **
+- 🌱 I’m currently learning ** Mern_Stack && DataStructure_&_Algorithm (ADVANCE DSA +DEV )**
+- RESUME_LINK>>>    https://www.linkedin.com/in/kishu-kumar-sahu/overlay/1744820938738/single-media-viewer/?profileId=ACoAAEeAvn4BpP-SJCDDDdGHzcJhhH3mpR1kMtk
 - 📫 How to reach me ** kishukumars082@gmail.com **
 
-- ⚡ Fun fact ** I think...Enough is not too little ✨♥️#universe **
+- ⚡ Universal fact ** I think...Enough is not too little ✨♥️#universe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
