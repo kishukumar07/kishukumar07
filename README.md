@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishukumar07" alt="kishukumar07" /></a> </p>
 
 - 🌱 I’m currently learning ** Mern_Stack && DataStructure_&_Algorithm (ADVANCE DSA +DEV )**
-- RESUME_LINK>>>    https://www.linkedin.com/in/kishu-kumar-sahu/overlay/1744820938738/single-media-viewer/?profileId=ACoAAEeAvn4BpP-SJCDDDdGHzcJhhH3mpR1kMtk
+- 
 - 📫 How to reach me ** kishukumars082@gmail.com **
 
 - ⚡ Universal fact ** I think...Enough is not too little ✨♥️#universe**
