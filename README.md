@@ -1,19 +1,13 @@
 ### 👋 Hi there , I'm Niket (Kishu Kumar)!
 
-<h3 align="center">🚀 A Passionate JavaScript Developer & Tech Enthusiast from India 🚀</h3>
+<h3 align="center">👩🏼‍💻 Not a FrameWorker -A Software Engineer from India (deals with Js / Ts / Py)👩🏼‍💻 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=JavaScript%20Developer;MERN%20Stack%20Developer;Tech%20Explorer;Always%20Exploring%20New%20Technologies&center=true&width=500&height=50" />
 </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishukumar07" alt="kishukumar07" /></a> </p>
-
-- 🌱 I’m currently learning ** Mern_Stack && DataStructure_&_Algorithm (ADVANCE DSA +DEV )**
-- 
-- 📫 How to reach me ** kishukumars082@gmail.com **
-
-- ⚡ Universal fact ** I think...Enough is not too little ✨♥️#universe**
-
+- 🌱 FullStack (MERN) && Data-Structure_&_Algorithm 
+- 📫 To reach me ** kishukumars082@gmail.com **
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kishukumar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kishukumar07" height="30" width="40" /></a>
