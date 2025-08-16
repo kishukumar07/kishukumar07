@@ -1,4 +1,4 @@
-### Meet Niket (Kishu)! 👋 
+### Chronicles of a  Explorer 🌌
 <h3 align="center">✨ Engineering Tomorrow | Writing the Future in Code 🚀</h3>
 
 <p align="center">
