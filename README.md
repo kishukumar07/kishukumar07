@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://www.leetcode.com/kishu_kumar" target="blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishukumar07" height="40"  />
   </a>
   <a href="https://discord.gg/niket_sahu07_53604" target="blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40"/>
