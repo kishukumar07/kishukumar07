@@ -2,7 +2,9 @@
 <h3 align="center">✨ Engineering Tomorrow | Writing the Future in Code 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Meet%20Niket%20(Kishu)!;Not%20a%20FrameWorker%20-%20A%20Software%20Engineer%20from%20India;Deals%20with%20Js%20/%20Ts%20/%20Py;Always%20Exploring%20New%20Technologies&center=true&width=750&height=50&pause=1200&color=00C2FF&vCenter=true&size=22&font=Fira%20Code"> </p> ---
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Coder’s%20Odyssey%20🌍;Not%20a%20FrameWorker%20-%20A%20Software%20Engineer%20from%20India;Skilled%20in%20Js%20/%20Ts%20/%20Py;Typing%20Speed%20:%2050%20WPM%20⌨️;Always%20Exploring%20New%20Technologies%20🚀&center=true&width=850&height=50&pause=1200&color=00C2FF&vCenter=true&size=22&font=Fira%20Code">
+</p> 
+---
 ### 🏆 GitHub Achievements  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
