@@ -1,4 +1,4 @@
-### 👋 Hi there , I'm Niket (Kishu Kumar)!
+### Meet Niket (Kishu)!
 
 <h3 align="center">👩🏼‍💻 Not a FrameWorker -A Software Engineer from India (deals with Js / Ts / Py)👩🏼‍💻 </h3>
 
