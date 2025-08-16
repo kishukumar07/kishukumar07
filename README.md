@@ -1,9 +1,9 @@
 ### Meet Niket (Kishu)! 👋
 
-<h3 align="center">👩🏼‍💻 Not a FrameWorker - A Software Engineer from India (deals with Js / Ts / Py) 👩🏼‍💻</h3>
+<h3 align="center">🚀 Software Engineer | MERN & Beyond | Lifelong Learner 🌍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Meet%20Niket%20(Kishu)!;Not%20a%20FrameWorker%20-%20A%20Software%20Engineer%20from%20India;Deals%20with%20Js%20/%20Ts%20/%20Py;Always%20Exploring%20New%20Technologies&center=true&width=750&height=50&pause=1200&color=00C2FF&vCenter=true&size=22&font=Fira%20Code">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=900&lines=Hey!+I'm+Niket+%F0%9F%91%8B;Software+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+%7C+Node.js+%7C+Express+%7C+MongoDB+%F0%9F%92%BB;Java+%26+DSA+Explorer+⚡;Always+Learning+%26+Building+%F0%9F%8C%90;Future+Entrepreneur+in+the+Making+%F0%9F%92%B0" alt="Typing SVG" />
 </p>
 
 ---
