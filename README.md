@@ -10,7 +10,7 @@
 ### 🌱 About Me  
 - 🔥 FullStack Developer (MERN) & DSA Explorer  
 - 💡 Always curious about **new technologies & problem-solving**  
-- 📫 Reach me at **kishukumars082@gmail.com**
+- 📫 Reach me at: [kishukumars082@gmail.com](mailto:kishukumars082@gmail.com)
 
 ---
 
@@ -33,16 +33,13 @@
 
 ---
 
-### 📈 Activity Graph
-[![Kishu’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kishukumar07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="https://twitter.com/kishukumar07" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="https://linkedin.com/in/kishu-kumar-sahu" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://leetcode.com/kishu_kumar" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+  <a href="https://leetcode.com/kishu_kumar" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" height="40"/>
+</a>
   <a href="https://discord.gg/niket_sahu07_53604" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
