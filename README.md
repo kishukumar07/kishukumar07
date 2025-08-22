@@ -8,7 +8,9 @@
 ---
 
 ### 🌱 About Me  
-- 🔥 FullStack Developer (MERN) & DSA Explorer  
+- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🔥%20FullStack%20Engineer%20(MERN)%20%26%20DSA%20Explorer&center=true&width=600&height=40&size=20&color=00C2FF&pause=1000&vCenter=true&font=Fira+Code" />
+</p>
 - 💡 Always curious about **new technologies & problem-solving**  
 - 📫 Reach me at: [kishukumars082@gmail.com](mailto:kishukumars082@gmail.com)
 
