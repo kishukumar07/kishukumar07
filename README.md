@@ -10,7 +10,7 @@
 - 🔥 FullStack Developer (MERN) & DSA Explorer
 - 💡 Always curious about **new technologies & problem-solving**  
 - 📫 Reach me at: [kishukumars082@gmail.com](mailto:kishukumars082@gmail.com)
-                  [click for my Linkedin ](https://linkedin.com/in/kishu-kumar-sahu)
+-  🌐 <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 ---
 
 ## 📊 GitHub Stats
@@ -20,17 +20,6 @@
 </p>
 
 ![](https://visitcount.itsvg.in/api?id=kishukumar07&label=Profile%20Views&color=12&icon=5&pretty=true&count=500)
-
----
-
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://leetcode.com/kishu_kumar" target="_blank">
- 
-</a>
-  <a href="https://discord.gg/niket_sahu07_53604" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
-</p>
 
 ---
 
