@@ -1,4 +1,3 @@
-### Chronicles of an Explorer 🌌
 <h3 align="center">✨ Engineering Tomorrow | Writing the Future in Code 🚀</h3>
 
 <p align="center">
@@ -14,15 +13,6 @@
 
 ---
 
-### 🏆 GitHub Achievements  
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kishukumar07&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishukumar07&layout=compact&theme=tokyonight" />
@@ -35,10 +25,9 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://twitter.com/kishukumar07" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="https://linkedin.com/in/kishu-kumar-sahu" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://leetcode.com/kishu_kumar" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" height="40"/>
+ 
 </a>
   <a href="https://discord.gg/niket_sahu07_53604" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
