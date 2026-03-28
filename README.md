@@ -1,60 +1,26 @@
-<div class="scene">
-  <div class="orb"></div>
-  <div class="shadow"></div>
-</div>
+### 🛠️ My Odyssey Toolkit
 
-<style>
-  :root {
-    --orb-color: #00C2FF; /* Matching your SVG color */
-  }
-
-  body {
-    background: #0a0a0a;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  }
-
-  .scene {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .orb {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    background: radial-gradient(circle at 30% 30%, #ffffff, var(--orb-color) 40%, #001a2b 100%);
-    box-shadow: 0 0 40px rgba(0, 194, 255, 0.4), inset -10px -10px 30px rgba(0, 0, 0, 0.5);
-    animation: float 4s ease-in-out infinite;
-  }
-
-  .shadow {
-    width: 80px;
-    height: 20px;
-    background: rgba(0, 0, 0, 0.4);
-    border-radius: 50%;
-    margin-top: 50px;
-    filter: blur(8px);
-    animation: expand 4s ease-in-out infinite;
-  }
-
-  @keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-30px); }
-  }
-
-  @keyframes expand {
-    0%, 100% { transform: scale(1); opacity: 0.4; }
-    50% { transform: scale(1.4); opacity: 0.2; }
-  }
-</style>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,py,cpp,react,nextjs,docker,aws&theme=dark" />
+  </a>
+</p>
 ---
+### 🌌 Journey Logistics (Contribution Map)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&area=true&hide_border=true" width="850">
+</p>
+---
+<details>
+<summary><b>📂 ACCESS LOGS: MISSION OBJECTIVES</b></summary>
+
+- [ ] Master the Rust nebula.
+- [ ] Build a sentient CLI.
+- [ ] Document the journey across the web.
+
+</details>
+---
 ### 🌱 About Me  
 - 🔥 FullStack Developer (MERN) & DSA Explorer
 - 💡 Always curious about **new technologies & problem-solving**  
