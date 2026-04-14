@@ -1,6 +1,3 @@
-### 🌱 About Me  
-- 🔥 FullStack Developer (MERN) & DSA Explorer
-- 💡 Always curious about **new technologies & problem-solving**  
 - 📫 Reach me at: [kishukumars082@gmail.com](mailto:kishukumars082@gmail.com)
 -  🌐 <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 ---
