@@ -18,7 +18,3 @@
 
 ---
  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
----
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
-</p>
