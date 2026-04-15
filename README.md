@@ -17,4 +17,3 @@
 </p>
 
 ---
- <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
