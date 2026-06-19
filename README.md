@@ -166,14 +166,7 @@ GenAI / LLMs          ████████████░░░░░░░�
 <br/>
 
 
-## 202–27 Goals
 
-- [ ] Master Data Structures & Algorithms (LeetCode 300+)
-- [ ] Ship Dominex as a production-ready platform
-- [ ] Deepen System Design knowledge
-- [ ] Build and open-source 3 production-grade tools
-- [ ] Land a Backend / Full Stack engineering role
-- [ ] Contribute meaningfully to open source
 
 <br/>
 
